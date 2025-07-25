@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/orcamento.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+} 

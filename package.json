@@ -1,0 +1,23 @@
+{
+  "name": "orcamento-ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev --listen 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucenajj/orcamento-ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucenajj/orcamento-ecommerce/issues"
+  },
+  "homepage": "https://github.com/lucenajj/orcamento-ecommerce#readme",
+  "description": "",
+  "devDependencies": {
+    "vercel": "^44.5.5"
+  }
+}
